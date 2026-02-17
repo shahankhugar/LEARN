@@ -1,2 +1,3 @@
 # LEARN
-JUST going through GITHUB 
+<H2> Getting familiar with GitHub </H2>
+HELLO BUDDY 
